@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{fHo4:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),r=n("Wbzz"),c=n("Bl7J"),u=(n("tBDR"),n("vrFN"));t.default=function(){return l.a.createElement(c.a,null,l.a.createElement(u.a,{title:"FLAB"}),l.a.createElement("h1",null,"FLAB"),l.a.createElement("p",null,"FLAB 관련 정보 페이지"),l.a.createElement(r.Link,{to:"/"},"메인 페이지로"))}}}]);
+//# sourceMappingURL=component---src-pages-flab-js-a21d17518f419d9853ca.js.map
